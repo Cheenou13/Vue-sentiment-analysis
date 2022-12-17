@@ -8085,6 +8085,7 @@
 
 	// Specify whether the keywords are case sensitive or not
 	"todohighlight.isCaseSensitive": true,
+	
 
 	// Enable or disable the highlight
 	"todohighlight.isEnable": true,
