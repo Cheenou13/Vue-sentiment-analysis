@@ -1286,7 +1286,7 @@
 	//  - vs-minimal
 	//  - vs-seti
 	//  - material-icon-theme
-	"workbench.iconTheme": "vs-seti",
+	"workbench.iconTheme": "material-icon-theme",
 
 	// Controls whether the layout control is shown in the custom title bar. This setting only has an effect when `window.titleBarStyle` is set to `custom`.
 	"workbench.layoutControl.enabled": true,
