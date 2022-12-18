@@ -7195,7 +7195,7 @@
 	},
 
 	// Vetur will warn about not setup correctly for the project. You can disable it.
-	"vetur.ignoreProjectWarning": false,
+	"vetur.ignoreProjectWarning": true,
 
 	// Whether to enable codeActions
 	"vetur.languageFeatures.codeActions": true,
